@@ -1,4 +1,4 @@
-<h1>Tom Poarkov (@usename-Poezd)</h1>
+<h1>Tom Poyarkov (@usename-Poezd)</h1>
 
 - 💻 Core Stack: **Go, PHP, JS/Vue**. Mainly focused on Backend & Arcitecture.
 - 👨‍💻 Telegram: **@Artem_Poezdov**
